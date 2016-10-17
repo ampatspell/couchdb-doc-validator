@@ -1,0 +1,14 @@
+{
+  "name": "couchdb-doc-validator",
+  "main": "dist.js",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "couchdb",
+    "validator",
+    "browser",
+    "library"
+  ]
+}

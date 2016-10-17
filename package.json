@@ -1,0 +1,20 @@
+{
+  "name": "couchdb-doc-validator",
+  "version": "1.0.0",
+  "description": "CouchDB validate_doc_update validator",
+  "repository": "https://bitbucket.org/ampatspell/couchdb-doc-validator",
+  "main": "dist.js",
+  "scripts": {
+  },
+  "keywords": [
+    "couchdb",
+    "validator"
+  ],
+  "author": "ampatspell <ampatspell@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.1",
+    "gulp": "^3.9.1",
+    "lodash": "^4.16.4"
+  }
+}

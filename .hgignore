@@ -1,0 +1,7 @@
+syntax: glob
+
+.git
+.DS_Store
+node_modules
+
+dist.js
