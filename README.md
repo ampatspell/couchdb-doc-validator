@@ -2,6 +2,10 @@
 
 Usage:
 
+``` plain
+$ bower install couchdb-doc-validator
+```
+
 ``` javascript
 let sofa = window.couchdb_doc_validator;
 
